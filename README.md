@@ -5,7 +5,7 @@ Ideas tried out here are the ones i find interesting or hard to understand.
 * Simple Neural Network.ipynb -- This is using self made data on regular day to day objects and training a small neural network on the data.
 * AgentIteration.ipynb -- This is my interaction with claude in trying to bootstrap it to do interesting things.
 * Obvious.ipynb -- This is based on the idea of using data which on the outset is very obvious or useless and trying to get very useful embeddings out of it.
-* Recurrent Neural Network.ipynb --  
+* Recurrent Neural Network.ipynb -- Training a small lstm to see how it works.
 * Scrapingprices.ipynb -- Scraping prices using an llm.
 * StyleTransfer.ipynb -- Style transfer of mfhussain painting on his potriat.
 
